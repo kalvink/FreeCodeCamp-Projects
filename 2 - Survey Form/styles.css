@@ -1,0 +1,32 @@
+div {
+    padding: 5px;
+}
+
+#div1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-family: "Sofia";
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-color: #e7e7e7;
+    background-image: url("https://images.unsplash.com/photo-1547147473-0b748ef102d9?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80");
+}
+
+#main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: "Sofia";
+    font-size: 22px;
+    background-color: #c0c0c0;
+    padding: 30px;
+}
+
+#radiocheck {
+    padding: 50px;
+    width: 50%;
+}
