@@ -1,0 +1,72 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#slogan {
+    text-align: center;
+    font-size: 25px;
+}
+
+#welcome-section {
+    padding-top: 50px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+    background-color: rgb(38, 40, 146);
+}
+
+.nav-link {
+    padding: 15px;
+}
+
+#projects {
+    padding-top: 50px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+    background-color: rgb(95, 97, 197);
+}
+
+.project-tile {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+#profile {
+    padding-top: 50px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+    background-color: rgb(185, 186, 236);
+    text-align: center;
+}
+
+#profile-link {
+    padding: 5px;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
