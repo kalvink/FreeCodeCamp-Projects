@@ -7,6 +7,20 @@
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     font-size: 30px;
+    width: 100vw;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 h1 {
